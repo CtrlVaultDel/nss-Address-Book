@@ -1,0 +1,16 @@
+C:\Users\Nedas\workspace\backend\AddressBook\bin\Debug\net5.0\AddressBook.exe
+C:\Users\Nedas\workspace\backend\AddressBook\bin\Debug\net5.0\AddressBook.deps.json
+C:\Users\Nedas\workspace\backend\AddressBook\bin\Debug\net5.0\AddressBook.runtimeconfig.json
+C:\Users\Nedas\workspace\backend\AddressBook\bin\Debug\net5.0\AddressBook.runtimeconfig.dev.json
+C:\Users\Nedas\workspace\backend\AddressBook\bin\Debug\net5.0\AddressBook.dll
+C:\Users\Nedas\workspace\backend\AddressBook\bin\Debug\net5.0\ref\AddressBook.dll
+C:\Users\Nedas\workspace\backend\AddressBook\bin\Debug\net5.0\AddressBook.pdb
+C:\Users\Nedas\workspace\backend\AddressBook\obj\Debug\net5.0\AddressBook.csprojAssemblyReference.cache
+C:\Users\Nedas\workspace\backend\AddressBook\obj\Debug\net5.0\AddressBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nedas\workspace\backend\AddressBook\obj\Debug\net5.0\AddressBook.AssemblyInfoInputs.cache
+C:\Users\Nedas\workspace\backend\AddressBook\obj\Debug\net5.0\AddressBook.AssemblyInfo.cs
+C:\Users\Nedas\workspace\backend\AddressBook\obj\Debug\net5.0\AddressBook.csproj.CoreCompileInputs.cache
+C:\Users\Nedas\workspace\backend\AddressBook\obj\Debug\net5.0\AddressBook.dll
+C:\Users\Nedas\workspace\backend\AddressBook\obj\Debug\net5.0\ref\AddressBook.dll
+C:\Users\Nedas\workspace\backend\AddressBook\obj\Debug\net5.0\AddressBook.pdb
+C:\Users\Nedas\workspace\backend\AddressBook\obj\Debug\net5.0\AddressBook.genruntimeconfig.cache
